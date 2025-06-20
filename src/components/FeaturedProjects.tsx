@@ -14,8 +14,8 @@ const FeaturedProjects = () => {
     },
     {
       title: "JijiFresh Marketplace",
-      description: "A community-driven marketplace connecting local farmers with consumers, built with React and Node.js",
-      tech: ["React", "Node.js", "MongoDB", "Stripe"],
+      description: "A decentralized community-driven marketplace connecting local sellers with consumers, powered by Smart Contract and built with React and Node.js",
+      tech: ["React", "Solidity", "Node.js", "MongoDB", "Stripe"],
       category: "Community",
       color: "from-brand-mint-400 to-brand-mint-600",
       icon: "🌱"

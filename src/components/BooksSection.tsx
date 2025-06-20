@@ -24,19 +24,19 @@ const BooksSection = () => {
     },
     {
       title: "Letters to My Future Self",
-      subtitle: "Essays",
+      subtitle: "Collections",
       description: "Reflections on identity, ambition, and building a life that matters in the intersection of technology and humanity.",
       status: "Planning",
       progress: 15,
-      genre: "Essays",
+      genre: "Collection",
       color: "from-brand-gold-400 to-brand-gold-600"
     }
   ];
 
   const currentlyReading = [
     { title: "The Seven Husbands of Evelyn Hugo", author: "Taylor Jenkins Reid" },
-    { title: "Purple Hibiscus", author: "Chimamanda Ngozi Adichie" },
-    { title: "Kingdom of Ash", author: "Sarah J. Maas" }
+    { title: "Dear Elona", author: "Joy Ehonwa" },
+    { title: "I For Don Blow But I Too Dey Press Phone", author: "Hymar Idibe" }
   ];
 
   return (
